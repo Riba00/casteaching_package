@@ -1,0 +1,27 @@
+{
+  "name": "@riba00/casteaching",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riba00/casteaching_package.git"
+  },
+  "keywords": [
+    "axios",
+    "laravel",
+    "api",
+    "rest",
+    "casteaching"
+  ],
+  "author": "Riba00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riba00/casteaching_package/issues"
+  },
+  "homepage": "https://github.com/Riba00/casteaching_package#readme"
+}
